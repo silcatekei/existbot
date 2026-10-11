@@ -1,0 +1,12 @@
+{
+  "name": "economy-match-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that awards economy points for playing matches",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.0"
+  }
+}
